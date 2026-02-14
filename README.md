@@ -14,7 +14,7 @@ A beautiful CLI task manager with arrow key navigation.
 ## Installation
 
 ```bash
-npm install -g task-cli
+npm install -g @friday2su/task-cli
 ```
 
 ## Usage

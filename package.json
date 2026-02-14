@@ -1,5 +1,5 @@
 {
-  "name": "task-cli",
+  "name": "@friday2su/task-cli",
   "version": "1.0.0",
   "description": "A beautiful CLI task manager with arrow key navigation",
   "main": "src/index.js",
